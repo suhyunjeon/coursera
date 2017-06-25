@@ -5,7 +5,6 @@
     
 ### 2017.06.25
 #### Lectrure 
-https://www.coursera.org/learn/progfun1/lecture/EQ7BX/lecture-1-1-programming-paradigms
-https://www.coursera.org/learn/progfun1/lecture/EQ7BX/lecture-1-1-programming-paradigms
-Martin Odersky, "Working Hard to Keep It Simple" - OSCON Java 2011    
-https://www.youtube.com/watch?v=3jg1AheF4n0
+https://www.coursera.org/learn/progfun1/lecture/EQ7BX/lecture-1-1-programming-paradigms  
+Martin Odersky, "Working Hard to Keep It Simple" - OSCON Java 2011      
+https://www.youtube.com/watch?v=3jg1AheF4n0  
