@@ -1,5 +1,8 @@
+
 object session1 {
   1 + 3
+
+  Function
 
   def abs(x: Double) = if (x < 0) -x else x
 
